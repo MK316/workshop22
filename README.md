@@ -4,7 +4,7 @@ Program (ver 1.0)
 
 | :date: Schedule | Topics | Github links | Data files | Reference videos |
 |----------|--------|--------------|------------|-----------|
-| Intro | Getting ready | links | [brown_single.zip](https://github.com/MK316/workshop22/blob/main/data/brown_single.zip)    |  |
+| Intro | Getting ready | [intro.md](https://github.com/MK316/workshop22/blob/main/intro.md) | [brown_single.zip](https://github.com/MK316/workshop22/blob/main/data/brown_single.zip)    |  |
 |           | Colab for python coding | links |     |  |
 | Session 1 | Python coding basics | links |     |   |
 | Session 2 | NLP | links |     |   |
