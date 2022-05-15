@@ -11,3 +11,7 @@ Program (ver 1.0)
 | Session 3 | Customized applications | links |     |   |
 
 
+### References
+
+* Emoji [link](https://gist.github.com/rxaviers/7360908)
+* 
