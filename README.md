@@ -8,7 +8,7 @@ Program (ver 1.0) updated 05/15/2022
 |           | Getting ready | Google Colab, Github, Coding? | links |     |  |
 | Session 1 | Python coding basics | variables, data types, functions, packages  | links |     |   |
 | Session 2 | NLP | Linguistic information from texts |  links |  |   |
-| Session 3 | Customized applications | Education, research, statistics  | links |     |   |
+| Session 3 | Customized applications | for language teaching/learning, research, statistics  | links |     |   |
 
 
 ### References
