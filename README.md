@@ -1,6 +1,6 @@
 # Workshop22 (TBA)
 
-Getting ready schedule
+Program (ver 1.0)
 
 | Schedule | Topics | Github links | Data files |
 |----------|--------|--------------|------------|
