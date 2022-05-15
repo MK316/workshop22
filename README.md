@@ -4,9 +4,9 @@ Program (ver 1.0)
 
 | Schedule | Topics | Github links | Data files |
 |----------|--------|--------------|------------|
-| Session 1 | Getting ready | links |     |
+| Intro | Getting ready | links |     |
 |           | Colab for python coding | links |     |
-| Session 2 | Python coding basics | links |     |
-| Session 3 | NLP | links |     |
-| Session 4 | Customized applications | links |     |
+| Session 1 | Python coding basics | links |     |
+| Session 2 | NLP | links |     |
+| Session 3 | Customized applications | links |     |
 
