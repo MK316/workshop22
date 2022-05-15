@@ -13,5 +13,5 @@ Program (ver 1.0)
 
 ### References
 
-* Emoji [link](https://gist.github.com/rxaviers/7360908)
+* Emoji [link](https://gist.github.com/rxaviers/7360908): :V: :thumbsup:  
 * 
