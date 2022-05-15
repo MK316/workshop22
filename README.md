@@ -1,4 +1,4 @@
-# Workshop22 (TBA)
+# Planning Workshop22 (TBA)
 
 Program (ver 1.0)
 
