@@ -4,7 +4,7 @@ Program (ver 1.0) updated 05/15/2022
 
 | :date: Schedule | Topics | Goals | Github links | Data files | Reference videos |
 |----------|--------|------|--------|------------|-----------|
-| Intro | Getting ready | Why python?\ What does it do for us? | [intro.md](https://github.com/MK316/workshop22/blob/main/intro.md) | [brown_single.zip](https://github.com/MK316/workshop22/blob/main/data/brown_single.zip)    |  |
+| Intro | Getting ready | *Why python? *What does it do for us? | [intro.md](https://github.com/MK316/workshop22/blob/main/intro.md) | [brown_single.zip](https://github.com/MK316/workshop22/blob/main/data/brown_single.zip)    |  |
 |           | Colab for python coding |  | links |     |  |
 | Session 1 | Python coding basics |   | links |     |   |
 | Session 2 | NLP | Linguistic information from texts |  links |  |   |
