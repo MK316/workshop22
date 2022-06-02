@@ -7,3 +7,9 @@
 🌀  **Why Python?**  
 
 🌀  **How?** Using Colab platform (much easier)
+
+**Colab**, or **"Colaboratory"**, allows you to write and execute Python in your browser (not on your computer), with
+
+* No configuration is required
+* Access to GPUs online (Google colab)
+* Easy learning and sharing
