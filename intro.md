@@ -1,4 +1,4 @@
-<img src="https://github.com/MK316/workshop22/raw//main/img/pythonlogo.png" width="120" height="40"> 
+![Python]("https://github.com/MK316/workshop22/raw//main/img/pythonlogo.png")
 
 # Introduction   
 
