@@ -1,4 +1,4 @@
-![Python](https://github.com/MK316/workshop22/raw/main/img/pythonlogo.png)
+![Python](../img/pythonlogo.png)
 
 # Introduction   
 
