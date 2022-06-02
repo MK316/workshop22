@@ -3,3 +3,7 @@
 # Introduction   
 
 🌀  Python is a [high-level]("https://en.wikipedia.org/wiki/High-level_programming_language"), interpreted, general-purpose _**programming** language._ [▶️ Wikipedia]("https://en.wikipedia.org/wiki/Python_(programming_language)")  
+
+🌀  **Why Python?**  
+
+🌀  **How?** Using Colab platform (much easier)
