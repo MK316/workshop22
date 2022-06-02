@@ -1,4 +1,4 @@
-![](../img/pythonlogo.png)
+![](/img/pythonlogo.png)
 
 # Introduction   
 
