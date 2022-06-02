@@ -2,4 +2,4 @@
 
 ![logo][[https://github.com/MK316/workshop22/raw//main/img/pythonlogo.png | width =60]]  
 
-<img src="https://github.com/MK316/workshop22/raw//main/img/pythonlogo.png" width="60" height="30">
+<img src="https://github.com/MK316/workshop22/raw//main/img/pythonlogo.png" width="120" height="30">
