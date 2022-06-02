@@ -13,5 +13,5 @@
 * No configuration is required
 * Access to GPUs online (Google colab)
 * Easy learning and sharing  
-[Colab intro link]("https://colab.research.google.com/?utm_source=scs-index#scrollTo=5fCEDCU_qrC0")  
+[▶️  Colab intro link]("https://colab.research.google.com/?utm_source=scs-index#scrollTo=5fCEDCU_qrC0")  
 
