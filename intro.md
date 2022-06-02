@@ -16,7 +16,8 @@
 * Access to GPUs online (Google colab)
 * Easy learning and sharing  
 
-**Colab page** https://colab.research.google.com/
+**Colab page** https://colab.research.google.com/  
+
 <img src="https://github.com/MK316/workshop22/raw//main/img/colab.png" width="400" height="250"> 
 
 
