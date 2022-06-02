@@ -18,7 +18,9 @@
 
 **↗️ Go to Colab page** https://colab.research.google.com/  
 
-<img src="https://github.com/MK316/workshop22/raw//main/img/colab.png" width="400" height="250"> 
+![](/img/colab.png)
+
+
 
 
   
