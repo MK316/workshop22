@@ -8,7 +8,8 @@ Program (ver 1.0) updated 05/15/2022
 |           | Getting ready | Google Colab, Github, Coding? | [Gettingready](/Gettingready.ipynb) |     |  |
 | **Session 1** | Python coding basics | Variables, data types, [packages](/python_packages.ipynb), functions  | [session01](/session01.ipynb) | 💾 [textfile](https://raw.githubusercontent.com/MK316/workshop22/main/data/fable01.txt)    |   |
 | **Session 2** | NLP | Linguistic information from texts |  links |  |   |
-| **Session 3** | Customized applications for me | For language teaching/learning, research, statistics  | links |     |   |
+| **Session 3** | Data in csv | Basic plotting & descriptive statistics | Links |  |  |
+| **Session 4** | Customized applications for me | For language teaching/learning, research, statistics  | links |     |   |
 
 
 ### References
