@@ -1,4 +1,4 @@
-# 🦖 Planning Workshop22 (TBA)
+# 🦖 Workshop prep. (Tentative schedule)
 
 Program (ver 1.0) updated 05/15/2022
 Program (ver 1.1) updated 05/30/2022
