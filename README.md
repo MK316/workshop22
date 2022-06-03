@@ -1,6 +1,8 @@
 # 🦖 Planning Workshop22 (TBA)
 
 Program (ver 1.0) updated 05/15/2022
+Program (ver 1.1) updated 05/30/2022
+Program (ver 1.2) updated 06/02/2022
 
 | :date: Schedule | Topics | Contents | Github pages| Data files | Reference videos |
 |----------|--------|------|--------|------------|-----------|
