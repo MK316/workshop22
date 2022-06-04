@@ -5,7 +5,7 @@ Prep (ver 1.1) updated 05/30/2022
 Prep (ver 1.2) updated 06/02/2022  
 Prep (ver 1.3) updated 06/04/2022  
 
-| :date: Schedule | Topics | Contents | Github pages| Data files | Video material |
+| :date: Schedule | Topics | Contents | <div style="width:200px">Github pages</div>| Data files | Video material |
 |----------|--------|------|--------|------------|-----------|
 | Intro | * Overview | Python: _what, why, how?_ | ↗️  [intro.md](https://github.com/MK316/workshop22/blob/main/intro.md) | [brown_single.zip](https://github.com/MK316/workshop22/blob/main/data/brown_single.zip)    |  |
 |          | Getting ready | Google Colab, Github, Coding? | ↗️  [Intro](/Gettingready.ipynb) |     |  |
