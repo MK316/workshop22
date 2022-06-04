@@ -19,9 +19,10 @@ Prep (ver 1.3) updated 06/04/2022
 📌 **Online References**
 
 * [https://realpython.com/nltk-nlp-python/](https://realpython.com/nltk-nlp-python/)
-* [hsnam95 Github page](https://github.com/hsnam95/my/blob/main/nlp.ipynb)
 * [nltk.org](https://www.nltk.org/book/ch02.html)
 * [Text preprocessing from wikidocs](https://wikidocs.net/21694)
+* [hsnam95 Github page](https://github.com/hsnam95/my/blob/main/nlp.ipynb)
+* [NAMZ Channel videos](https://www.youtube.com/channel/UCKHB0ZiTVk8qUdqhVtnCUrA/videos)
 
 
 
