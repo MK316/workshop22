@@ -16,5 +16,7 @@ Program (ver 1.2) updated 06/02/2022
 
 ### References
 
-* Emoji [link](https://gist.github.com/rxaviers/7360908): :full_moon:  :pray:  :thumbsup:  
-* 
+* [https://realpython.com/nltk-nlp-python/](https://realpython.com/nltk-nlp-python/)
+* [hsnam95 Github page]([https://github.com/hsnam95/](https://github.com/hsnam95/my/blob/main/nlp.ipynb))
+*
+
