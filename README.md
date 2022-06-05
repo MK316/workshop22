@@ -12,7 +12,7 @@ Prep (ver 1.3) updated 06/04/2022
 | **Session 1** | **Python coding basics** | Variables, data types, [packages](/python_packages.ipynb), functions  | ↗️  [session01](/session01.ipynb) | 💾 [textfile](https://raw.githubusercontent.com/MK316/workshop22/main/data/fable01.txt)    |   |
 | **Session 2** | **NLP:** Frequency, Lexical Diversity, Concordance, N-gram, POS tagging, etc. | Text data analysis, Getting linguistic information from big data |  ↗️  [session02](/session02.ipynb) | 💾 [Ch01](https://raw.githubusercontent.com/MK316/workshop22/main/data/RE.Ch01.txt), [Ch02](https://raw.githubusercontent.com/MK316/workshop22/main/data/RE.Ch02.txt)  |   |
 | **Session 3** | **Data visualization** & basic stats | Basic plotting & descriptive statistics | ↗️  [session03](/session03.ipynb) |💾 [iris.csv](https://raw.githubusercontent.com/MK316/workshop22/main/data/iris.csv)  |  |
-| **Session 4** | **Coding-app assisted language classes** | Assisting language teaching / learning | ↗️  Samples: [Class01 Reading](/class01_reading.ipynb), [Class02 Voca](/class02_voca.ipynb),[Class03 Pronunciation](/class03_pronunciation.ipynb) |     |   |
+| **Session 4** | **Coding-app assisted language classes** | Assisting language teaching / learning | ↗️  Samples: [Class01:Reading](/class01_reading.ipynb), [Class02:Voca](/class02_voca.ipynb),[Class03:Pronunciation](/class03_pronunciation.ipynb) |     |   |
 
 
 
