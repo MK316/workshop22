@@ -17,7 +17,7 @@ Prep (ver 1.3) updated 06/04/2022
 
 
 📌 **Online References**
-
+* [Markdown emoji list](https://gist.github.com/rxaviers/7360908)
 * [https://realpython.com/nltk-nlp-python/](https://realpython.com/nltk-nlp-python/)
 * [nltk.org](https://www.nltk.org/book/ch02.html)
 * [Text preprocessing from wikidocs](https://wikidocs.net/21694)
